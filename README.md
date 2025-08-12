@@ -38,3 +38,13 @@ This project explores **credit card anomaly detection** using a real-world imbal
 - Transaction amount vs fraud status plots
 - Confusion matrices for different parameter sets
 
+
+## HIGH RECALL
+
+<img width="434" height="173" alt="Screenshot 2025-08-12 at 6 33 13 PM" src="https://github.com/user-attachments/assets/74326d54-60d7-4ffe-877d-5a2f4b29ec47" />
+
+## HIGH PRECISION
+
+<img width="434" height="173" alt="Screenshot 2025-08-12 at 6 33 32 PM" src="https://github.com/user-attachments/assets/cadadc67-cdcb-4a2b-af00-c150a3a2ec99" />
+
+
